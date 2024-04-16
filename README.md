@@ -8,3 +8,4 @@
 - 🌱 Can Build Scalable/Maintainable Frontend Components & SDKs From Scratch.
 - 👯 My Designing & Backend Skills helps me to collaborate with other developers.
 - ⚡ Build Rangoli - A component Based library used by 100s of Developers & Designers
+- 🐬 Deep Knowledge of CI/CD Pipeline & Production Ready Tools like Docker, Kubernetes.

@@ -9,4 +9,4 @@
 - 👯 My Designing & Backend Skills helps me to collaborate with other developers.
 - ⚡ Build Rangoli - A component Based library used by 100s of Developers & Designers
 - 🐬 Deep Knowledge of CI/CD Pipeline & Production Ready Tools like Docker, Kubernetes.
-- 🔗 Visit my Personal Portfolio https:www.akshaywritescode.com for more info.
+- 🔗 Visit my Personal Portfolio www.akshaywritescode.com for more info.

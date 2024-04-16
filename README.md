@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
   ## Myself is Akshay, and i am senior frontend & Ui Designer and this is what i can do
 
